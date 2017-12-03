@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite>
+<test name="Try">
+<classes>
+<class name="first.gmail">
+</class>
+<class name="first.auto3">
+</class>
+</classes>
+</test>
+</suite>
