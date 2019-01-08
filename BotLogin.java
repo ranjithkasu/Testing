@@ -16,5 +16,5 @@ public class BotLogin {
 		driver.manage().window().maximize();
 
 	}
-
+//login page for bot
 }
